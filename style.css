@@ -17,5 +17,6 @@ nav a {
     nav {
         flex-direction: column;
         height: auto;
+        background-color: red;
     }
 }
